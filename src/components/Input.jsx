@@ -40,9 +40,9 @@ function Input() {
                 </div>
                 <hr className="mt-2 mb-10 border-yellow-300" />
                 <div id="to" className="text-white text-xl"></div>
-                <h1 className="text-white text-xl>Gw Tunda dulu ni Project </h1>
-                <h1 className="text-white text-xl>Kesulitan: Menghapus dari Database </h1> 
-                <h1 className="text-white text-xl>Saat InI : 16-07-2023</h1>  
+                <h1 className="text-white text-xl">Gw Tunda dulu ni Project </h1>
+                <h1 className="text-white text-xl">Kesulitan: Menghapus dari Database </h1>
+                <h1 className="text-white text-xl">Saat InI : 16-07-2023</h1>
             </section>
             {/*End*/}
         </>
